@@ -1512,7 +1512,8 @@ title: O'Reilly Style Guide
  <li>text box</li>
  <li>text-input mode</li>
  <li>thread pooling (n)</li>
- <li><strong>timeout (in tech/computing contexts)</strong></li>
+ <li><strong>timeout (n or a) (in tech/computing contexts)</strong></li>
+ <li>time out (v) (in tech/computing contexts)</li>
  <li>time-sharing processes</li>
  <li>timestamp</li>
  <li>time zone</li>
